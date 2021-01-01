@@ -1,0 +1,302 @@
+body {
+  background-color: #2A466F;
+  padding: 10px;
+  margin: 5px;
+}
+#nav-bar {
+  border-bottom: #A8EEFC  1px solid;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.navbar {
+  background-color: #2A466F;
+  padding: 0 !important;
+}
+
+.navbar-brand img {
+  padding-left: 20px;
+
+}
+
+.navbar-nav {
+  padding: 0 10px;
+}
+
+.navbar-nav a {
+  color: white !important;
+  font-weight: 600;
+  float: right;
+  text-align: right;
+}
+
+.nav-link:hover {
+  color: #A8EEFC !important;
+}
+
+.fa-bars {
+  color: white !important;
+  font-size: 30px;
+}
+
+.navbar-toggler {
+  outline: none !important;
+}
+
+
+.bottom-img {
+  width: 100%;
+}
+
+
+#banner {
+  color: white;
+  padding-top: 5%;
+}
+
+.promo-title {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 100px;
+  margin-bottom: -10px;
+  color: #A8EEFC;
+}
+
+#banner a {
+  color: white;
+  text-decoration: none;
+}
+
+.callbuttonNav {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+  background: rgb(237, 67, 55);
+  padding: 15px 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  padding: 10px;
+  text-align: center;
+  font-size: medium;
+  display: inline-block;
+}
+
+.callbuttonNav:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px rgba(255, 26, 30, .4);
+}
+
+
+.callbutton {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+  background: rgb(237, 67, 55);
+  padding: 15px 40px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  padding: 10px;
+  text-align: center;
+  font-size: medium;
+  display: inline-block;
+}
+
+.callbutton:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px rgba(255, 26, 30, .4);
+}
+
+.title {
+  color: #ffd186;
+  background-color: #212f56;
+  padding: 8px;
+  text-align: center;
+  overflow: hidden;
+  max-width: fit-content;
+  margin: 10px auto;
+
+}
+
+
+#services .row {
+  text-align: center;
+}
+
+#services {
+  background: #A8EEFC;
+  padding-bottom: 10px;
+  padding-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+#services ul {
+  margin-left: 20px;
+}
+
+#services ul li {
+  margin: 10px 0;
+  font-size: 15px;
+}
+
+.service {
+  width: 100%;
+}
+
+#services .title {
+  color: #A8EEFC;
+  background-color: #2A466F;
+  padding: 8px;
+  text-align: center;
+  overflow: hidden;
+  max-width: fit-content;
+  margin: 10px auto;
+}
+
+
+#servicesPlus {
+  padding-bottom: 10px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+#servicesPlus .title {
+  color: #2A466F;
+  background-color: #A8EEFC;
+  padding: 8px;
+  text-align: center;
+  overflow: hidden;
+  max-width: fit-content;
+  margin: 10px auto;
+}
+
+.servicePlusImg {
+  width: 100%;
+}
+
+#all {
+  background: #A8EEFC;
+  padding-bottom: 10px;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+#all ul {
+  margin-left: 20px;
+}
+
+#all ul li {
+  margin: 10px 0;
+  font-size: 15px;
+}
+
+#all .title {
+  color: #A8EEFC;
+  background-color: #2A466F;
+  padding: 8px;
+  text-align: center;
+  overflow: hidden;
+  max-width: fit-content;
+  margin: 10px auto;
+}
+
+#all .row {
+  text-align: center;
+}
+#all h1{
+  color: #2A466F;
+}
+
+
+.social-icons .fab {
+  color: #A8EEFC;
+  transition: 0.5s;
+  padding-left: 10px;
+}
+
+.social-icons a:hover .fab {
+  transform: translateY(-10px);
+  color: #ffffff;
+}
+
+
+#footer {
+  color: white;
+}
+
+#footer ul,
+p {
+  font-size: 15px;
+}
+
+.footer-img {
+  width: 100%;
+}
+
+.container-footer {
+  background-color: #2A466F;
+  padding: 0 !important;
+
+}
+
+.footer-box {
+  color: white;
+  padding: 20px;
+}
+
+.container-footer .row {
+  margin-left: 50px;
+}
+
+.footer-box img {
+  width: 230px;
+}
+
+.footer-box .fas {
+  margin-right: 8px;
+  font-size: 25px;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  padding-top: 7px;
+  border-radius: 20px;
+  background-color: #A8EEFC;
+  color: #2A466F;
+}
+
+.footer-box .form-control {
+  box-shadow: none;
+  border: none;
+  border-radius: 0px;
+  margin-top: 25px;
+  max-width: 250px;
+}
+
+.footer-box .btn-primary {
+  box-shadow: none !important;
+  border: none;
+  border-radius: 0;
+  margin-top: 30px;
+  background-color: #212f56;
+}
+
+hr {
+  background-color: #ffffff;
+}
+
+
+iframe {
+  padding: 20px;
+}
+
+.copyright {
+  margin-bottom: 0;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: small;
+}
